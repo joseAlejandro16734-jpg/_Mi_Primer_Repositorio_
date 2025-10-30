@@ -1,0 +1,1 @@
+print("Primera versión: Saludo inicial")
